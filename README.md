@@ -3,6 +3,7 @@
 **AI-powered self-learning support intelligence for RealPage PropertySuite**
 
 **Live Demo:** https://knowledge-drift.vercel.app
+Zoom to fit screen, if does not render with correct scale.
 
 ---
 
