@@ -94,13 +94,12 @@ npm install
 npm run dev
 ```
 
-Optionally add a HuggingFace token in .env.local:
+Add a HuggingFace token in .env.local:
 
 ```
 HF_API_TOKEN=hf_your_token_here
 ```
 
-The platform works fully without an API key using intelligent local analysis.
 
 ## Metrics
 
